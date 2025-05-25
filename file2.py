@@ -1,1 +1,2 @@
-print("hello babes want to come tonight?") 
+night_message= "hello babes want to come tonight?"
+print(night_message) 
